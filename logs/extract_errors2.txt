@@ -1,0 +1,311 @@
+
+TRAIN Dataset Length without Captions: 59
+
+Error 1:
+YouTube UID: 6wurtXEnBYw
+[0;31mERROR:[0m Sign in to confirm your age
+This video may be inappropriate for some users.
+
+Error 2:
+YouTube UID: 6wurtXEnBYw
+[0;31mERROR:[0m Sign in to confirm your age
+This video may be inappropriate for some users.
+
+Error 3:
+YouTube UID: Hlay7-0hOXA
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 4:
+YouTube UID: 2Bknb6EQzYo
+[0;31mERROR:[0m Sign in to confirm your age
+This video may be inappropriate for some users.
+
+Error 5:
+YouTube UID: WU9-MmRe4_g
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 6:
+YouTube UID: fdel7Zvq5s4
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 7:
+YouTube UID: JifKGgGGlMg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 8:
+YouTube UID: JifKGgGGlMg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 9:
+YouTube UID: JifKGgGGlMg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 10:
+YouTube UID: JifKGgGGlMg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 11:
+YouTube UID: o5EJGeKIGrk
+[0;31mERROR:[0m Video unavailable
+
+Error 12:
+YouTube UID: o5EJGeKIGrk
+[0;31mERROR:[0m Video unavailable
+
+Error 13:
+YouTube UID: o5EJGeKIGrk
+[0;31mERROR:[0m Video unavailable
+
+Error 14:
+YouTube UID: ID4nnTGrkc8
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 15:
+YouTube UID: ID4nnTGrkc8
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 16:
+YouTube UID: ID4nnTGrkc8
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 17:
+YouTube UID: B8WEfHMeWwg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 18:
+YouTube UID: B8WEfHMeWwg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 19:
+YouTube UID: B8WEfHMeWwg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 20:
+YouTube UID: B8WEfHMeWwg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 21:
+YouTube UID: B8WEfHMeWwg
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 22:
+YouTube UID: 9fTAW_HAN2Y
+[0;31mERROR:[0m Video unavailable
+
+Error 23:
+YouTube UID: 9fTAW_HAN2Y
+[0;31mERROR:[0m Video unavailable
+
+Error 24:
+YouTube UID: 9fTAW_HAN2Y
+[0;31mERROR:[0m Video unavailable
+
+Error 25:
+YouTube UID: 9fTAW_HAN2Y
+[0;31mERROR:[0m Video unavailable
+
+Error 26:
+YouTube UID: tVZLqXaE7-8
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 27:
+YouTube UID: tVZLqXaE7-8
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 28:
+YouTube UID: AfTih6YgmvU
+[0;31mERROR:[0m Video unavailable
+This video is no longer available because the YouTube account associated with this video has been terminated.
+
+Error 29:
+YouTube UID: OAIyiAfokX4
+[0;31mERROR:[0m Sign in to confirm your age
+This video may be inappropriate for some users.
+
+Error 30:
+YouTube UID: PwoymvaC258
+[0;31mERROR:[0m Video unavailable
+
+Error 31:
+YouTube UID: mbho7AJOEyA
+[0;31mERROR:[0m Video unavailable
+
+Error 32:
+YouTube UID: mbho7AJOEyA
+[0;31mERROR:[0m Video unavailable
+
+Error 33:
+YouTube UID: mbho7AJOEyA
+[0;31mERROR:[0m Video unavailable
+
+Error 34:
+YouTube UID: IiJI-_VGNnk
+[0;31mERROR:[0m Video unavailable
+
+Error 35:
+YouTube UID: OTj3KxprO40
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 36:
+YouTube UID: tfDwIeBHo-M
+[0;31mERROR:[0m Video unavailable
+
+Error 37:
+YouTube UID: tfDwIeBHo-M
+[0;31mERROR:[0m Video unavailable
+
+Error 38:
+YouTube UID: T2YKnBmoq2E
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 39:
+YouTube UID: T2YKnBmoq2E
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 40:
+YouTube UID: T2YKnBmoq2E
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 41:
+YouTube UID: T2YKnBmoq2E
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 42:
+YouTube UID: T2YKnBmoq2E
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 43:
+YouTube UID: 126d8vXyEEA
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 44:
+YouTube UID: 126d8vXyEEA
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 45:
+YouTube UID: uyqOCjCXzfY
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 46:
+YouTube UID: 5R54QoUbbow
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 47:
+YouTube UID: 5R54QoUbbow
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 48:
+YouTube UID: 5R54QoUbbow
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 49:
+YouTube UID: 5R54QoUbbow
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 50:
+YouTube UID: 5R54QoUbbow
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 51:
+YouTube UID: 5R54QoUbbow
+[0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+Error 52:
+YouTube UID: Jq2vsUBanR4
+[0;31mERROR:[0m Video unavailable
+
+Error 53:
+YouTube UID: Jq2vsUBanR4
+[0;31mERROR:[0m Video unavailable
+
+Error 54:
+YouTube UID: NuqoG0PALHs
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 55:
+YouTube UID: NuqoG0PALHs
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 56:
+YouTube UID: NuqoG0PALHs
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 57:
+YouTube UID: NuqoG0PALHs
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 58:
+YouTube UID: NuqoG0PALHs
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 59:
+YouTube UID: NuqoG0PALHs
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+TEST Dataset Length without Captions: 7
+
+Error 1:
+YouTube UID: 5gPyNNXP-wA
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 2:
+YouTube UID: 5gPyNNXP-wA
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 3:
+YouTube UID: 5gPyNNXP-wA
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 4:
+YouTube UID: 5gPyNNXP-wA
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 5:
+YouTube UID: 5gPyNNXP-wA
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 6:
+YouTube UID: 5gPyNNXP-wA
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+Error 7:
+YouTube UID: 5gPyNNXP-wA
+[0;31mERROR:[0m Private video
+Sign in if you've been granted access to this video
+
+VAL Dataset Length without Captions: 0

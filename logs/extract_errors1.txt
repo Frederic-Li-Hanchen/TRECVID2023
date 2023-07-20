@@ -1,0 +1,600 @@
+
+TRAIN Dataset Length without Captions: 2710
+
+Error 1:
+YouTube UID: 6wurtXEnBYw
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=6wurtXEnBYw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 2:
+YouTube UID: 6wurtXEnBYw
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=6wurtXEnBYw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 3:
+YouTube UID: Hlay7-0hOXA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Hlay7-0hOXA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 4:
+YouTube UID: 2Bknb6EQzYo
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=2Bknb6EQzYo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 5:
+YouTube UID: WU9-MmRe4_g
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=WU9-MmRe4_g! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 6:
+YouTube UID: fdel7Zvq5s4
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fdel7Zvq5s4! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 7:
+YouTube UID: JifKGgGGlMg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JifKGgGGlMg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 8:
+YouTube UID: JifKGgGGlMg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JifKGgGGlMg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 9:
+YouTube UID: JifKGgGGlMg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JifKGgGGlMg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 10:
+YouTube UID: JifKGgGGlMg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JifKGgGGlMg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 11:
+YouTube UID: o5EJGeKIGrk
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=o5EJGeKIGrk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 12:
+YouTube UID: o5EJGeKIGrk
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=o5EJGeKIGrk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 13:
+YouTube UID: o5EJGeKIGrk
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=o5EJGeKIGrk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 14:
+YouTube UID: ID4nnTGrkc8
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=ID4nnTGrkc8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 15:
+YouTube UID: ID4nnTGrkc8
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=ID4nnTGrkc8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 16:
+YouTube UID: ID4nnTGrkc8
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=ID4nnTGrkc8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 17:
+YouTube UID: B8WEfHMeWwg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=B8WEfHMeWwg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 18:
+YouTube UID: B8WEfHMeWwg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=B8WEfHMeWwg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 19:
+YouTube UID: B8WEfHMeWwg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=B8WEfHMeWwg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 20:
+YouTube UID: B8WEfHMeWwg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=B8WEfHMeWwg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 21:
+YouTube UID: B8WEfHMeWwg
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=B8WEfHMeWwg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 22:
+YouTube UID: 9fTAW_HAN2Y
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9fTAW_HAN2Y! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 23:
+YouTube UID: 9fTAW_HAN2Y
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9fTAW_HAN2Y! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 24:
+YouTube UID: 9fTAW_HAN2Y
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9fTAW_HAN2Y! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 25:
+YouTube UID: 9fTAW_HAN2Y
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9fTAW_HAN2Y! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 26:
+YouTube UID: tVZLqXaE7-8
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=tVZLqXaE7-8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 27:
+YouTube UID: tVZLqXaE7-8
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=tVZLqXaE7-8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 28:
+YouTube UID: AfTih6YgmvU
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=AfTih6YgmvU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 29:
+YouTube UID: OAIyiAfokX4
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=OAIyiAfokX4! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 30:
+YouTube UID: PwoymvaC258
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=PwoymvaC258! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 31:
+YouTube UID: mbho7AJOEyA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mbho7AJOEyA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 32:
+YouTube UID: mbho7AJOEyA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mbho7AJOEyA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 33:
+YouTube UID: mbho7AJOEyA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mbho7AJOEyA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 34:
+YouTube UID: IiJI-_VGNnk
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=IiJI-_VGNnk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 35:
+YouTube UID: OTj3KxprO40
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=OTj3KxprO40! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 36:
+YouTube UID: tfDwIeBHo-M
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=tfDwIeBHo-M! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 37:
+YouTube UID: tfDwIeBHo-M
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=tfDwIeBHo-M! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 38:
+YouTube UID: T2YKnBmoq2E
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=T2YKnBmoq2E! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 39:
+YouTube UID: T2YKnBmoq2E
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=T2YKnBmoq2E! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 40:
+YouTube UID: T2YKnBmoq2E
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=T2YKnBmoq2E! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 41:
+YouTube UID: T2YKnBmoq2E
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=T2YKnBmoq2E! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 42:
+YouTube UID: T2YKnBmoq2E
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=T2YKnBmoq2E! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 43:
+YouTube UID: 126d8vXyEEA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=126d8vXyEEA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 44:
+YouTube UID: 126d8vXyEEA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=126d8vXyEEA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 45:
+YouTube UID: uyqOCjCXzfY
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=uyqOCjCXzfY! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 46:
+YouTube UID: 5R54QoUbbow
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5R54QoUbbow! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 47:
+YouTube UID: 5R54QoUbbow
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5R54QoUbbow! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 48:
+YouTube UID: 5R54QoUbbow
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5R54QoUbbow! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 49:
+YouTube UID: 5R54QoUbbow
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5R54QoUbbow! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 50:
+YouTube UID: 5R54QoUbbow
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5R54QoUbbow! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 51:
+YouTube UID: 5R54QoUbbow
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5R54QoUbbow! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 52:
+YouTube UID: Jq2vsUBanR4
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Jq2vsUBanR4! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 53:
+YouTube UID: Jq2vsUBanR4
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Jq2vsUBanR4! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 54:
+YouTube UID: NuqoG0PALHs
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NuqoG0PALHs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 55:
+YouTube UID: NuqoG0PALHs
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NuqoG0PALHs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 56:
+YouTube UID: NuqoG0PALHs
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NuqoG0PALHs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 57:
+YouTube UID: NuqoG0PALHs
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NuqoG0PALHs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 58:
+YouTube UID: NuqoG0PALHs
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NuqoG0PALHs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 59:
+YouTube UID: NuqoG0PALHs
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NuqoG0PALHs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+TEST Dataset Length without Captions: 155
+
+Error 1:
+YouTube UID: 5gPyNNXP-wA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5gPyNNXP-wA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 2:
+YouTube UID: 5gPyNNXP-wA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5gPyNNXP-wA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 3:
+YouTube UID: 5gPyNNXP-wA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5gPyNNXP-wA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 4:
+YouTube UID: 5gPyNNXP-wA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5gPyNNXP-wA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 5:
+YouTube UID: 5gPyNNXP-wA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5gPyNNXP-wA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 6:
+YouTube UID: 5gPyNNXP-wA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5gPyNNXP-wA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Error 7:
+YouTube UID: 5gPyNNXP-wA
+
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5gPyNNXP-wA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+VAL Dataset Length without Captions: 145
