@@ -4,6 +4,7 @@ import yake
 import pke
 import pandas as pd
 from copy import copy
+from time import time
 
 ### Function to find the most frequent words
 def return_most_frequent_words(input_text, nb_keywords=3):
@@ -293,6 +294,43 @@ def save_keywords_in_csv(transcript_path, save_path, nb_keywords=3):
     results.to_csv(save_path,index=False)
 
 
+### Function to extract keywords from transcripts in .csv files using TopicalPageRank
+def extract_topical_page_rank_keywords(file_path,res_path,nb_keywords=3):
+    start = time()
+    # Load the csv file
+    data = pd.read_csv(file_path)
+    nb_examples, nb_columns = data.shape
+    print('')
+    print('Processing file %s' % file_path)
+    print('%d examples found' % nb_examples)
+    # Extract the keywords for each transcript
+    all_keywords = []
+    for idx in range(nb_examples):
+        print('Processing example %d/%d ...'%(idx+1,nb_examples))
+        transcript = data.iloc[idx]['transcript']
+        if type(transcript) is str: # NOTE: some transcripts could not be extracted, so transcripts might be nan
+            try:
+                # Extract keywords
+                extractor = pke.unsupervised.TopicalPageRank()
+                extractor.load_document(input=transcript, language='en')
+                extractor.candidate_selection()
+                extractor.candidate_weighting()
+                all_keywords += [[e[0] for e in extractor.get_n_best(n=nb_keywords)]]
+            except:
+                print('    Failure with keyword extraction for example %d!' % (idx+1))
+                all_keywords += [[]]
+        else:
+            print('    No transcript found for example %d!' % (idx+1))
+            all_keywords += [[]]
+    data.insert(nb_columns,"topical_page_rank",all_keywords)
+    # Save the result csv file
+    data.to_csv(res_path,index=False)
+    end = time()
+    print('Process completed in %.2f seconds.' % (end-start))
+    print('')
+    
+
+
 ### Main
 if __name__ == '__main__':
     # # Print keywords
@@ -300,9 +338,15 @@ if __name__ == '__main__':
     # nb_keywords = 3
     # print_keywords(input_text,nb_keywords)
 
-    # Save keywords in csv file
-    transcript_file = './data/transcripts.txt'
-    save_keywords_in_csv(transcript_file,'./results/extracted_keywords.csv')
+    # # Save keywords in csv file
+    # transcript_file = './data/transcripts.txt'
+    # save_keywords_in_csv(transcript_file,'./results/extracted_keywords.csv')
 
     #return_most_frequent_words('Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.')
+
+    # Extract keywords of transcripts with TopicalPageRank
+    #extract_topical_page_rank_keywords('./results/test_set.csv','./results/test_set_keywords.csv')
+    extract_topical_page_rank_keywords('./results/train_set.csv','./results/train_set_keywords.csv')
+    #extract_topical_page_rank_keywords('./results/val_set.csv','./results/val_set_keywords.csv')
+
 
