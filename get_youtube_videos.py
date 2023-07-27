@@ -55,7 +55,7 @@ def download_all_videos(csv_file,save_path):
             # Prepare name of video to save
             new_video_name = video_name.replace('_tmp','')
             # Save video clip
-            clip.write_videofile(os.path.join(video_path,new_video_name))
+            clip.write_videofile(os.path.join(video_path,new_video_name),logger=None)
             # Delete old video
             clip.close()
             os.remove(os.path.join(video_path,video_name))
