@@ -11,6 +11,12 @@ def find_closest(element,list):
     idx = np.argmin(diff_list)
     return list[idx], idx
 
+### Function to convert 'HH:MM:SS' to a timestamp in seconds
+def convert_ts(time_str):
+    """Get seconds from time."""
+    h, m, s = time_str.split(':')
+    return int(h) * 3600 + int(m) * 60 + int(s)
+
 
 ### Function to extract the video transcripts from Youtube videos and save them in a csv file
 def extract_transcripts(json_path,save_path):
@@ -22,7 +28,18 @@ def extract_transcripts(json_path,save_path):
     print('%d samples found.' % nb_examples)
 
     # Prepare dataframe to be saved as csv
-    result = pd.DataFrame(columns=['sample_id','question','answer_start','answer_end','answer_start_second','answer_end_second','video_length','video_id','video_url','transcript'])
+    columns = list(dataset[0].keys()) # NOTE: assumption that columns contain at least 'video_id'
+    if 'answer_start_second' in columns:
+        start_ts_name = 'answer_start_second'
+    else:
+        start_ts_name = 'answer_start'
+    if 'answer_end_second' in columns:
+        end_ts_name = 'answer_end_second'
+    else:
+        end_ts_name = 'answer_end'
+    
+    #result = pd.DataFrame(columns=['sample_id','question','answer_start','answer_end','answer_start_second','answer_end_second','video_length','video_id','video_url','transcript'])
+    result = pd.DataFrame(columns=columns+['transcript'])
 
     # Loop on the videos
     print('')
@@ -33,15 +50,18 @@ def extract_transcripts(json_path,save_path):
 
         # Save meta-data in the resulting data frame
         video_id = dataset[idx]['video_id']
-        result.at[idx,'sample_id'] = dataset[idx]['sample_id']
-        result.at[idx,'question'] = dataset[idx]['question']
-        result.at[idx,'answer_start'] = dataset[idx]['answer_start']
-        result.at[idx,'answer_end'] = dataset[idx]['answer_end']
-        result.at[idx,'answer_start_second'] = dataset[idx]['answer_start_second']
-        result.at[idx,'answer_end_second'] = dataset[idx]['answer_end_second']
-        result.at[idx,'video_length'] = dataset[idx]['video_length']
-        result.at[idx,'video_id'] = dataset[idx]['video_id']
-        result.at[idx,'video_url'] = dataset[idx]['video_url']
+        for column_name in columns:
+            result.at[idx,column_name] = dataset[idx][column_name]
+        
+        # result.at[idx,'sample_id'] = dataset[idx]['sample_id']
+        # result.at[idx,'question'] = dataset[idx]['question']
+        # result.at[idx,'answer_start'] = dataset[idx]['answer_start']
+        # result.at[idx,'answer_end'] = dataset[idx]['answer_end']
+        # result.at[idx,'answer_start_second'] = dataset[idx]['answer_start_second']
+        # result.at[idx,'answer_end_second'] = dataset[idx]['answer_end_second']
+        # result.at[idx,'video_length'] = dataset[idx]['video_length']
+        # result.at[idx,'video_id'] = dataset[idx]['video_id']
+        # result.at[idx,'video_url'] = dataset[idx]['video_url']
 
         # Extract the full transcript of the video
         # First check if the English transcript exists
@@ -53,8 +73,13 @@ def extract_transcripts(json_path,save_path):
             result.at[idx,'transcript'] = ''
         else:
             # Get all the starting timestamps for the transcripts
-            start_ts = dataset[idx]['answer_start_second']
-            end_ts = dataset[idx]['answer_end_second']
+            start_ts = dataset[idx][start_ts_name]
+            end_ts = dataset[idx][end_ts_name]
+            if type(start_ts) is str:
+                start_ts = convert_ts(start_ts)
+            if type(end_ts) is str:
+                end_ts = convert_ts(end_ts)
+
             all_start_ts = [e['start'] for e in full_transcript]
 
             # Find the closest timestamps to the start and end ones
@@ -80,6 +105,8 @@ def extract_transcripts(json_path,save_path):
 
 ### Main
 if __name__ == '__main__':
-    extract_transcripts(json_path='./data/train.json',save_path='./results/train_set.csv')
-    extract_transcripts(json_path='./data/test.json',save_path='./results/test_set.csv')
-    extract_transcripts(json_path='./data/val.json',save_path='./results/val_set.csv')
+    # extract_transcripts(json_path='./data/train.json',save_path='./results/train_set.csv')
+    # extract_transcripts(json_path='./data/test.json',save_path='./results/test_set.csv')
+    # extract_transcripts(json_path='./data/val.json',save_path='./results/val_set.csv')
+    extract_transcripts(json_path='./data/val.json',save_path='./results/debug.csv')
+    #extract_transcripts(json_path='./data/miqg-test-frames.json',save_path='./results/miqg_test_set.csv')
