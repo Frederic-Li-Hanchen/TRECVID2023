@@ -346,7 +346,7 @@ if __name__ == '__main__':
 
     # Extract keywords of transcripts with TopicalPageRank
     #extract_topical_page_rank_keywords('./results/test_set.csv','./results/test_set_keywords.csv')
-    extract_topical_page_rank_keywords('./results/train_set.csv','./results/train_set_keywords.csv')
+    #extract_topical_page_rank_keywords('./results/train_set.csv','./results/train_set_keywords.csv')
     #extract_topical_page_rank_keywords('./results/val_set.csv','./results/val_set_keywords.csv')
 
-
+    extract_topical_page_rank_keywords('./results/miqg_test_set.csv','./results/miqg_test_set_keywords.csv')

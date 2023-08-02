@@ -4,6 +4,7 @@ import pandas as pd
 import os
 from time import time, sleep
 from pdb import set_trace as st
+from extract_transcripts import convert_ts
 
 
 ### Function to download a Youtube video given its url
@@ -51,12 +52,31 @@ def download_all_videos(csv_file,save_path,sample_list=[],login=False,verbose=Fa
         log = 'bar'
     else:
         log = None
-    for idx in range(nb_examples):
-    #for idx in range(5): # DEBUG
-        url = file_list.iloc[idx]['video_url']
-        file_name = file_list.iloc[idx]['sample_id']
-        start_ts = file_list.iloc[idx]['answer_start_second']
-        end_ts = file_list.iloc[idx]['answer_end_second']
+
+    columns = list(file_list.columns) # NOTE: assumption that columns contain at least 'video_id'
+    if 'answer_start_second' in columns:
+        start_ts_name = 'answer_start_second'
+    else:
+        start_ts_name = 'answer_start'
+    if 'answer_end_second' in columns:
+        end_ts_name = 'answer_end_second'
+    else:
+        end_ts_name = 'answer_end'
+
+    for idx in range(5): # DEBUG
+    #for idx in range(nb_examples):
+        current_sample = file_list.iloc[idx]
+        if 'video_url' in columns:
+            url = current_sample['video_url']
+        else: 
+            url = r'https://www.youtube.com/watch?v=' + current_sample['video_id']
+        file_name = current_sample['sample_id']
+        start_ts = current_sample[start_ts_name]
+        end_ts = current_sample[end_ts_name]
+        if type(start_ts) is str:
+            start_ts = convert_ts(start_ts)
+        if type(end_ts) is str:
+            end_ts = convert_ts(end_ts)
         start = time()
         try:
             video_path, video_name = download_video(url,save_path,str(file_name)+'_tmp',login)
@@ -74,7 +94,7 @@ def download_all_videos(csv_file,save_path,sample_list=[],login=False,verbose=Fa
             clip.close()
             os.remove(os.path.join(video_path,video_name))
             end = time()
-            print('Sample %d downloaded and clipped in %.2f seconds' % (file_name,end-start))
+            print('Sample %s downloaded and clipped in %.2f seconds' % (str(file_name),end-start))
             print('')
 
 
@@ -85,5 +105,6 @@ if __name__ == '__main__':
 
     # Download all videos
     #download_all_videos('./results/val_set.csv','./results/val_videos')
-    download_all_videos('./results/train_set.csv','./results/train_videos',[1068],verbose=True)
+    #download_all_videos('./results/train_set.csv','./results/train_videos',[1566,1567,1568,1569],verbose=True,login=True)
     #download_all_videos('./results/test_set.csv','./results/test_videos',[2718,2719,2720,2721,2722],login=True)
+    download_all_videos('./results/miqg_test_set.csv','./results/test_videos',verbose=True,login=False)

@@ -108,5 +108,5 @@ if __name__ == '__main__':
     # extract_transcripts(json_path='./data/train.json',save_path='./results/train_set.csv')
     # extract_transcripts(json_path='./data/test.json',save_path='./results/test_set.csv')
     # extract_transcripts(json_path='./data/val.json',save_path='./results/val_set.csv')
-    extract_transcripts(json_path='./data/val.json',save_path='./results/debug.csv')
-    #extract_transcripts(json_path='./data/miqg-test-frames.json',save_path='./results/miqg_test_set.csv')
+    # extract_transcripts(json_path='./data/val.json',save_path='./results/debug.csv')
+    extract_transcripts(json_path='./data/miqg-test-frames.json',save_path='./results/miqg_test_set.csv')
