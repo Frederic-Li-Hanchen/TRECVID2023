@@ -295,7 +295,8 @@ def save_keywords_in_csv(transcript_path, save_path, nb_keywords=3):
 
 
 ### Function to extract keywords from transcripts in .csv files using TopicalPageRank
-def extract_topical_page_rank_keywords(file_path,res_path,nb_keywords=3):
+### If transcript is set to True, use the transcript for keyword extraction. Otherwise, use the summary.
+def extract_topical_page_rank_keywords(file_path,res_path,nb_keywords=3,transcript=True):
     start = time()
     # Load the csv file
     data = pd.read_csv(file_path)
@@ -304,10 +305,14 @@ def extract_topical_page_rank_keywords(file_path,res_path,nb_keywords=3):
     print('Processing file %s' % file_path)
     print('%d examples found' % nb_examples)
     # Extract the keywords for each transcript
+    if transcript:
+        text_column = 'transcript'
+    else:
+        text_column = 'summary'
     all_keywords = []
     for idx in range(nb_examples):
         print('Processing example %d/%d ...'%(idx+1,nb_examples))
-        transcript = data.iloc[idx]['transcript']
+        transcript = data.iloc[idx][text_column]
         if type(transcript) is str: # NOTE: some transcripts could not be extracted, so transcripts might be nan
             try:
                 # Extract keywords
@@ -349,4 +354,6 @@ if __name__ == '__main__':
     #extract_topical_page_rank_keywords('./results/train_set.csv','./results/train_set_keywords.csv')
     #extract_topical_page_rank_keywords('./results/val_set.csv','./results/val_set_keywords.csv')
 
-    extract_topical_page_rank_keywords('./results/miqg_test_set.csv','./results/miqg_test_set_keywords.csv')
+    #extract_topical_page_rank_keywords('./results/miqg_test_set.csv','./results/miqg_test_set_keywords.csv')
+
+    extract_topical_page_rank_keywords('./results/train_summary_10600.csv','./results/augmented_summary_train_keywords.csv',transcript=False)
